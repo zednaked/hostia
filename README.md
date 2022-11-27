@@ -1,13 +1,13 @@
 # hostia
 <html>
 <body>
-<p><h1> Projeto Hostia </h1>
+<p> Projeto Hostia</p>
 <br>
 <center>
     A ideia desse projeto é criar uma solução simples e divertida (talvez principalmente divertida)
     , para as pessoas que amam plantas, poderem organizar suas agendas de cultivo.
 
-    <p> <h2> palavras chave </h2>
+    <p>palavras chave</p>
   <br>
    <ol>
    <li> clean</li>
@@ -16,7 +16,7 @@
    <li> modular</li> 
     </ol>
     
-    <p><h3>CORE</h3>
+    <p>CORE</p>
     <br>
     <ol>
         <li>perfil das plantas</li>
@@ -27,13 +27,14 @@
         no cultivo etc... hashtags</li>
     </ol>
 
-    <p> <h4> secundario </h4>
+    <p> secundario </p>
     <br>
+    <ol>
     <li>
-        poder ter varias entradas numa especie de diario da planta com fotos e dados<br>
-        perfil de usuario<br>
+        poder ter varias entradas numa especie de diario da planta com fotos e dados
+        perfil de usuario
     </li>
-
+    </ol>
 </center>
 
 </body>
