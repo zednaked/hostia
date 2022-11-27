@@ -4,29 +4,28 @@
 <center>
     A ideia desse projeto é criar uma solução simples e divertida (talvez principalmente divertida)
     , para as pessoas que amam plantas, poderem organizar suas agendas de cultivo.
-   
-  <p> palavras chave
+
+    <p> <h2> palavras chave </h2>
   <br>
    <ol>
    <li> clean</li>
    <li> simples</li>
     <li>eficiente</li>
-   <li> modular</li>
-        
+   <li> modular</li> 
     </ol>
     
-   <p>core
+    <p><h3>CORE</h3>
     <br>
     <ol>
-        perfil das plantas<br>
-        fotoperiodo que a planta esta<br>
-        agenda de rega<br>
-        agenda de fertilização<br>
-        descriçao da planta onde é possivel descrever a variedade, qual a mistura de terra usada <br>
-        no cultivo etc... hashtags <br>
+        <li>perfil das plantas</li>
+        <li>fotoperiodo que a planta esta</li>
+        <li>agenda de rega</li>
+        <li>agenda de fertilização</li>
+                  <li>descriçao da planta onde é possivel descrever a variedade, qual a mistura de terra usada 
+        no cultivo etc... hashtags</li>
     </ol>
 
-   <p> secundario
+    <p> <h4> secundario </h4>
     <br>
     <li>
         poder ter varias entradas numa especie de diario da planta com fotos e dados<br>
