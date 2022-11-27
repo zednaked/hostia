@@ -8,29 +8,29 @@
   <p> palavras chave
   <br>
    <li>
-    clean
-    simples
-    eficiente
-    modular
+    clean<br>
+    simples<br>
+    eficiente<br>
+    modular<br>
         
    </li>
     
    <p>core
     <br>
     <li>
-        perfil das plantas
-        fotoperiodo que a planta esta
-        agenda de rega
-        agenda de fertilização
-        descriçao da planta onde é possivel descrever a variedade, qual a mistura de terra usada 
-        no cultivo etc... hashtags 
+        perfil das plantas<br>
+        fotoperiodo que a planta esta<br>
+        agenda de rega<br>
+        agenda de fertilização<br>
+        descriçao da planta onde é possivel descrever a variedade, qual a mistura de terra usada <br>
+        no cultivo etc... hashtags <br>
     </li>
 
    <p> secundario
     <br>
     <li>
-        poder ter varias entradas numa especie de diario da planta com fotos e dados
-        perfil de usuario
+        poder ter varias entradas numa especie de diario da planta com fotos e dados<br>
+        perfil de usuario<br>
     </li>
 
 </center>
