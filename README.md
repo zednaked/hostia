@@ -7,24 +7,24 @@
    
   <p> palavras chave
   <br>
-   <li>
-    clean<br>
-    simples<br>
-    eficiente<br>
-    modular<br>
+   <ol>
+   <li> clean</li>
+   <li> simples</li>
+    <li>eficiente</li>
+   <li> modular</li>
         
-   </li>
+    </ol>
     
    <p>core
     <br>
-    <li>
+    <ol>
         perfil das plantas<br>
         fotoperiodo que a planta esta<br>
         agenda de rega<br>
         agenda de fertilização<br>
         descriçao da planta onde é possivel descrever a variedade, qual a mistura de terra usada <br>
         no cultivo etc... hashtags <br>
-    </li>
+    </ol>
 
    <p> secundario
     <br>
