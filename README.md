@@ -8,7 +8,7 @@ Projeto Hostia<
     , para as pessoas que amam plantas, poderem organizar suas agendas de cultivo.
 
     palavras chave
-  <br>
+  
    <ol>
    <li> clean</li>
    <li> simples</li>
@@ -17,7 +17,7 @@ Projeto Hostia<
     </ol>
     
     CORE
-    <br>
+    
     <ol>
         <li>perfil das plantas</li>
         <li>fotoperiodo que a planta esta</li>
@@ -28,7 +28,7 @@ Projeto Hostia<
     </ol>
 
     secundario 
-    <br>
+    
     <ol>
     <li>
         poder ter varias entradas numa especie de diario da planta com fotos e dados
